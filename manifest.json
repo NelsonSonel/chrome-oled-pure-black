@@ -1,0 +1,28 @@
+{
+  "manifest_version": 3,
+  "name": "OLED Pure Black",
+  "version": "1.0.0",
+  "description": "True #000000 pure black Chrome theme for OLED displays — pure black bookmarks bar, toolbar, inactive tabs & New Tab page with a subtle carbon-grey active tab.",
+  "theme": {
+    "images": {
+      "theme_toolbar": "toolbar.png"
+    },
+    "colors": {
+      "frame": [0, 0, 0],
+      "frame_inactive": [0, 0, 0],
+      "toolbar": [0, 0, 0],
+      "toolbar_button_icon": [240, 240, 240],
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [225, 225, 225],
+      "tab_background_text_inactive": [190, 190, 190],
+      "background_tab": [0, 0, 0],
+      "background_tab_inactive": [0, 0, 0],
+      "bookmark_text": [245, 245, 245],
+      "omnibox_background": [0, 0, 0],
+      "omnibox_text": [255, 255, 255],
+      "ntp_background": [0, 0, 0],
+      "ntp_text": [255, 255, 255],
+      "ntp_link": [210, 210, 210]
+    }
+  }
+}
